@@ -1,0 +1,10 @@
+Type=first
+Name=salat
+Price=15
+Amount=1
+
+Type=main
+Name=shawarma
+Price=40
+Amount=1
+
